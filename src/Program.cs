@@ -143,7 +143,7 @@ class Program
             double degrees;
             try
             {
-                CoolTextShowNOENTER("Pls wrtie ONE number (degrees): ", 50);
+                CoolTextShowNOENTER("Pls write ONE number (degrees): ", 50);
                 degrees = Convert.ToDouble(Console.ReadLine());
             }
             catch (FormatException)
