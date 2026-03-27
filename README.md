@@ -5,6 +5,22 @@ This calculator was created for fun. It is not meant to replace a calculator you
 
 ---
 
+## Installation
+
+1. Install .NET SDK  
+https://dotnet.microsoft.com/download
+
+2. Clone repository or download ZIP
+
+3. Open the project folder
+
+4. Run:
+
+```bash
+dotnet run
+```
+----
+
 ## Features
 
 ### Basic math
@@ -26,19 +42,3 @@ This calculator was created for fun. It is not meant to replace a calculator you
 - Rounding
 - Absolute value (|x|)
 - Random number generator 🎲
-
----
-
-## Installation
-
-1. Install .NET SDK  
-https://dotnet.microsoft.com/download
-
-2. Clone repository or download ZIP
-
-3. Open the project folder
-
-4. Run:
-
-```bash
-dotnet run
