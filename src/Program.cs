@@ -301,8 +301,16 @@ class Program
                     ThinkingProcess("T");
                     break;
                 case "3":
-                    resInExtraMath = Math.Log(num);
-                    break;
+                    if (num <= 0)
+                    {
+                        TryingAndCatching("zero");
+                        continue;
+                    }
+                    else
+                    {
+                        resInExtraMath = Math.Log(num);
+                        break;
+                    }
                 case "4":
                     resInExtraMath = Math.Round(num);
                     break;
