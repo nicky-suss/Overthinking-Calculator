@@ -1,9 +1,7 @@
 # Overthinking Calculator
 
-Note:
-This calculator was created for fun. It is not meant to replace a calculator you would use every day.
-
----
+>[!NOTE]
+>This calculator was created for fun. It is not meant to replace a calculator you would use every day.
 
 ## Installation
 
